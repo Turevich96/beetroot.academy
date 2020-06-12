@@ -20,6 +20,13 @@ section,
 summary {
   display: block;
 }
+.menu__box{
+   z-index: 1;
+}
+.menu__btn{
+   z-index: 2;
+}
+
 
 
 /**
