@@ -1489,7 +1489,7 @@ ul {
   }
 }
 .center-box__left {
-  background-image: url(../../assets/images/men.jpg);
+  background-image: url(../assets/images/men.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
