@@ -563,6 +563,7 @@ ul {
   margin-bottom: 114px;
 }
 .bhromaon-content__search__input {
+       border-radius: 0px;
   width: 500px;
   height: 60px;
   background-color: #ffffff;
